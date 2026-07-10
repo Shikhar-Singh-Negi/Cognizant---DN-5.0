@@ -1,4 +1,7 @@
-ExceptionThrowerTest.class
-com/example/EvenCheckerTest.class
-OrderedTests.class
-PerformanceTesterTest.class
+com\example\StringTest.class
+com\example\CalculatorTest.class
+com\example\ExceptionThrowerTest.class
+com\example\AllTests.class
+com\example\OrderedTests.class
+com\example\EvenCheckerTest.class
+com\example\PerformanceTesterTest.class
